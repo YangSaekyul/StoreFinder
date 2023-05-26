@@ -25,10 +25,9 @@ function StoreList() {
   const isFirstPage = currentIndex === 0;
   const isLastPage = currentIndex === data.stores.length - 1;
 
-  // 리뷰 추가 함수
   const addReview = (review) => {
     if (!currentStore.reviews) {
-      currentStore.reviews = []; // reviews 배열이 없는 경우 빈 배열로 초기화
+      currentStore.reviews = [];
     }
     currentStore.reviews.push(review);
     setCurrentIndex(currentIndex);
