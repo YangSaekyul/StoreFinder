@@ -12,9 +12,11 @@
 4. **개발 일정**:
    1. 2023/5/23 ~ 2023/6/5
 5. **프로젝트 구조**:
+
    1. 레이아웃은 아래와 같음
 
       ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa327030-07ce-4eaa-bc2b-34abe5e111ec/Untitled.png)
+
 6. **기능 명세**:
    1. 우선 백엔드 구축이 불가하니 자체 데이터로 진행 - 매장 정보는 해당 데이터에서 추출
    2. 리뷰 평점의 평균을 우측상단에 노출
