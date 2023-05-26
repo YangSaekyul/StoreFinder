@@ -14,7 +14,7 @@
 5. **프로젝트 구조**:
 
    1. 레이아웃은 아래와 같음
-
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa327030-07ce-4eaa-bc2b-34abe5e111ec/Untitled.png)
       ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa327030-07ce-4eaa-bc2b-34abe5e111ec/Untitled.png)
 
 6. **기능 명세**:
