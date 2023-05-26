@@ -14,8 +14,8 @@
 5. **프로젝트 구조**:
 
    1. 레이아웃은 아래와 같음
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa327030-07ce-4eaa-bc2b-34abe5e111ec/Untitled.png)
-      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa327030-07ce-4eaa-bc2b-34abe5e111ec/Untitled.png)
+   2. ![image](https://github.com/YangSaekyul/StoreFinder/assets/121498405/642ef2b7-0d21-4786-8bbe-bc1ab0ae544e)
+
 
 6. **기능 명세**:
    1. 우선 백엔드 구축이 불가하니 자체 데이터로 진행 - 매장 정보는 해당 데이터에서 추출
